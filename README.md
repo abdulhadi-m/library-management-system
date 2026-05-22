@@ -45,6 +45,7 @@ This is a library management API Backend for the management of users and the boo
 > > If a user misses both renewal & subscription, then the collected amount should be $200
 
 ## Command
+```bash
 npm init
 npm i express
 npm i nodemon --save-dev
