@@ -1,0 +1,29 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library management API Backend for the management of users and the books.",
+  "homepage": "https://github.com/abdulhadi-m/library-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/abdulhadi-m/library-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhadi-m/library-management-system.git"
+  },
+  "license": "ISC",
+  "author": "Abdulhadi Mohammed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
