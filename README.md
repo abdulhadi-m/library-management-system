@@ -56,9 +56,9 @@ npm i mongoose
 ```
 
 mongodb+srv://abdulhadimohd05_db_user:<db_password>@cluster0.yfemm1m.mongodb.net/?appName=Cluster0
-
+```
 npm i dotenv 
-
+```
 
 ### MVC Architecture
 - M: Model (Structure of our MongoDB)
