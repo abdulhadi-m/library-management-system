@@ -56,7 +56,6 @@ npm i mongoose
 ```
 
 mongodb+srv://abdulhadimohd05_db_user:<db_password>@cluster0.yfemm1m.mongodb.net/?appName=Cluster0
-mongodb+srv://abdulhadimohd05_db_user:a1FnqSlZl18iU6a9@cluster0.yfemm1m.mongodb.net/?appName=Cluster0
 
 npm i dotenv 
 
